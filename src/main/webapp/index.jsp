@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif;
             background-color: #f9f9f9;
             margin: 0;
-            padding: 20px;
+            padding: 70px;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -48,7 +48,7 @@
         }
 
         button {
-            background-color: #4CAF50;
+            background-color: pink;
             color: white;
             border: none;
             cursor: pointer;
@@ -56,7 +56,7 @@
         }
 
         button:hover {
-            background-color: #45a049;
+            background-color: pink;
         }
 
         .result {
